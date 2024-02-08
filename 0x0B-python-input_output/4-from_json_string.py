@@ -13,4 +13,3 @@ def from_json_string(my_str):
         The JSON string.
     """
     return json.loads(my_str)
-
