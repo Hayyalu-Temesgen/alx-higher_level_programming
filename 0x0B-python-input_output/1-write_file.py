@@ -1,9 +1,9 @@
 #!/usr/bin/python3
-"""Defines a write function file"""
+"""Defines a write function file."""
 
 
 def write_file(filename="", text=""):
-    """A function that writes a string to a text file
+    """A function that writes a string to a text file.
         
     Args:
         filename (str): The name of the file to write.
