@@ -5,7 +5,8 @@ import json
 
 
 def from_json_string(my_str):
-    """A function that return the Python object representation of a JSON string.
+    """A function that return the Python
+    object representation of a JSON string.
 
     Args:
         my_str (str): The name of the file
